@@ -1,0 +1,14 @@
+C:\Users\kevin\Punto_Venta\bin\Debug\net10.0\Punto_Venta.exe
+C:\Users\kevin\Punto_Venta\bin\Debug\net10.0\Punto_Venta.deps.json
+C:\Users\kevin\Punto_Venta\bin\Debug\net10.0\Punto_Venta.runtimeconfig.json
+C:\Users\kevin\Punto_Venta\bin\Debug\net10.0\Punto_Venta.dll
+C:\Users\kevin\Punto_Venta\bin\Debug\net10.0\Punto_Venta.pdb
+C:\Users\kevin\Punto_Venta\obj\Debug\net10.0\Punto_Venta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Punto_Venta\obj\Debug\net10.0\Punto_Venta.AssemblyInfoInputs.cache
+C:\Users\kevin\Punto_Venta\obj\Debug\net10.0\Punto_Venta.AssemblyInfo.cs
+C:\Users\kevin\Punto_Venta\obj\Debug\net10.0\Punto_Venta.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Punto_Venta\obj\Debug\net10.0\Punto_Venta.dll
+C:\Users\kevin\Punto_Venta\obj\Debug\net10.0\refint\Punto_Venta.dll
+C:\Users\kevin\Punto_Venta\obj\Debug\net10.0\Punto_Venta.pdb
+C:\Users\kevin\Punto_Venta\obj\Debug\net10.0\Punto_Venta.genruntimeconfig.cache
+C:\Users\kevin\Punto_Venta\obj\Debug\net10.0\ref\Punto_Venta.dll
